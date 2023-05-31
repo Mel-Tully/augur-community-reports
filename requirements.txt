@@ -126,7 +126,7 @@ tornado==6.2
 tqdm==4.47.0
 traitlets==5.9.0
 typed-ast==1.4.1
-typing-extensions==3.7.4.2
+typing-extensions==4.0.0
 tzlocal==2.1
 uri-template==1.2.0
 urllib3==1.25.11
